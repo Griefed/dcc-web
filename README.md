@@ -1,5 +1,9 @@
 # docker-compose Converter Web
 
+I've changed the index.html and .css under [/gh-pages](https://github.com/Griefed/dcc-web/tree/gh-pages) in order for the website to be deployed with regular apache's, for example a httpd:alpine docker container. 
+
+---
+
 Convert docker run/create commands to docker-compose.yml files.
 
 [Webapp](https://bucherfa.github.io/dcc-web/)
