@@ -1,5 +1,7 @@
 # docker-compose Converter Web
 
+[[_TOC_]]
+
 I've changed the index.html and .css under [/gh-pages](https://github.com/Griefed/dcc-web/tree/gh-pages) in order for the website to be deployed with regular apache's, for example a httpd:alpine docker container. 
 
 ---
