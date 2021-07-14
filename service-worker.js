@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dcc-web/precache-manifest.c4817de8bf55ab2cc45ede382b627f35.js"
+  "/dcc-web/precache-manifest.07ef399848a9864f1749113509781775.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dcc-web-pwa"});
