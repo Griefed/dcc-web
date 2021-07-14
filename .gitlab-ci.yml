@@ -1,5 +1,5 @@
 pages:
-  image: node:latest
+  image: griefed/gitlab-ci-cd:1.0.1
   stage: deploy
   script:
     - npm ci
